@@ -4,7 +4,7 @@ puzzle_gui.py
 Tile.py
 error_logger.py
 
-I chose to separate the game logic and the graphical representation of the game into two distinct files. This was helpful in keeping the different functions that run the game organized, and allowed me to keep track of what aspect of the game I was working on at any given moment. The Tile class is its own file as per the CS5001 style guide. When I was implementing the error_logger, I felt that it would be better to keep it separate from game logic as it wasn't essential to how the game ran.
+I chose to separate the game logic and the graphical representation of the game into two distinct files. This was helpful in keeping the different functions that run the game organized, and allowed me to keep track of what aspect of the game I was working on at any given moment. When I was implementing the error_logger, I felt that it would be better to keep it separate from game logic as it wasn't essential to how the game ran.
 
 
 Notable data structure usage:
